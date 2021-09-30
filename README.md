@@ -11,6 +11,9 @@
 
 1. Retrofit 라이브러리로 API 호출
 2. ListAdapter로 RecyclerView 구현
+3. Glide로 이미지 로딩
+4. Room과 Dao로 검색 기록, 도서 리뷰 저장
+5. View binding으로 View와 연결
 
 # 개발 과정
 
