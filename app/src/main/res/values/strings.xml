@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Bookstore</string>
+    <string name="save_review">리뷰 저장하기</string>
 </resources>
